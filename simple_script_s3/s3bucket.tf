@@ -27,7 +27,7 @@ prevent_destroy = true
 
 
 
-tags {
+tags = {
 
 Name = "S3 Remote store"
 
